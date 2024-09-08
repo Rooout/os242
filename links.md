@@ -41,17 +41,21 @@ permalink: LINKS/
 
 <!-- Hover effects for buttons -->
 <style>
-  button:hover {
-    transform: scale(1.1);
-    background-color: #FFDEE9;
-  }
+	button:hover {
+    		transform: scale(1.1);
+    	background-color: #FFDEE9;
+  	}
 
-  p {
-    text-align: center;
-  }
-div {
-    flex-wrap: wrap; /* Ensures buttons wrap if the screen size is small */
-  }
+  	p {
+    		text-align: center;
+  	}
+
+	div {
+		display: flex;
+		justify-content: center;
+		gap: 15px;
+    		flex-wrap: wrap; /* Ensures buttons wrap if the screen size is small */
+  	}
 </style>
 
 ---

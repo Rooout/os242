@@ -49,12 +49,15 @@ permalink: LINKS/
   p {
     text-align: center;
   }
+div {
+    flex-wrap: wrap; /* Ensures buttons wrap if the screen size is small */
+  }
 </style>
 
 ---
 
 # LINKS 🔗
-<h2 style="color:#4CAF50">MINGGU 01 🚩</h2>
+<h2 style="color:#4CAF50">WEEK 01 🚩</h2>
 
 1. [Poweful Book (Silberschatz et. al.)](https://codex.cs.yale.edu/avi/os-book/OS10/)
 -> For some people may nothing special with this book, but for OS student, especially me, this resource become very helpful :D.

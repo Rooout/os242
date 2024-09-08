@@ -10,7 +10,7 @@ ZCZC W01 30 L06 Read many resources
 ZCZC W01 150 L11 Do a very fun Assignment #01
 ZCZC W01 5 L27 SSH
 ZCZC W01 30 L31 Install VirtualBox and Debian
-ZCZC W01 120 L73 Play ZZZ
+ZCZC W01 120 L73 Play Zenless Zone Zero
 ZCZC W01 150 L81 Listen to music
 ZCZC W01 36 L84 Total time of sleep in 6 days
 ZCZC W01 60 L05 Preparing for Quiz

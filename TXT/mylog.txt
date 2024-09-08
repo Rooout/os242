@@ -1,6 +1,21 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+
+ZCZC W01 20 L00 General, etc
+ZCZC W01 15 L01 Read Scele Forums
+ZCZC W01 30 L03 Git related
+ZCZC W01 45 L04 GitHub Pages related
+ZCZC W01 30 L06 Read many resources
+ZCZC W01 150 L11 Do a very fun Assignment #01
+ZCZC W01 5 L27 SSH
+ZCZC W01 30 L31 Install VirtualBox and Debian
+ZCZC W01 120 L73 Play ZZZ
+ZCZC W01 150 L81 Listen to music
+ZCZC W01 36 L84 Total time of sleep in 6 days
+ZCZC W01 60 L05 Preparing for Quiz
+ZCZC W01 200 L02 Attend all of OS Class
+
 ZCZC W00 10 L03 Github Related
 ZCZC W00 200 L02 Attend all of OS Class
 ZCZC W00 10 L04 GitHub Pages related

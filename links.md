@@ -40,7 +40,7 @@ permalink: LINKS/
 </div>
 
 <!-- Hover effects for buttons -->
-<style>
+<!--<style>
 	button:hover {
     		transform: scale(1.1);
     	background-color: #FFDEE9;
@@ -56,7 +56,7 @@ permalink: LINKS/
 		gap: 15px;
     		flex-wrap: wrap; /* Ensures buttons wrap if the screen size is small */
   	}
-</style>
+</style>-->
 
 ---
 

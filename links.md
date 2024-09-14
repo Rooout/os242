@@ -65,3 +65,13 @@ permalink: LINKS/
 
 1. [Poweful Book (Silberschatz et. al.)](https://codex.cs.yale.edu/avi/os-book/OS10/)
 -> For some people may nothing special with this book, but for OS student, especially me, this resource become very helpful :D.
+
+# LINKS 🔗
+<h2 style="color:#4CAF50">WEEK 02 🚩</h2>
+
+1. [Understanding the Basics of Cyber Security](https://youtu.be/WfWMJiPh48k?si=XJbFDHgoZRfkVhNV)
+-> This video provides an introductory guide to the fundamentals of cybersecurity. It covers essential topics such as common cyber threats, protective measures, and the importance of safeguarding information in the digital age.
+
+2. [A Comprehensive Guide to Malware Types and Their Impacts](https://youtu.be/eBA8rl0c5hM?si=QvW9Tng5RYoUXPYU)
+-> This video delves into various types of malware, explaining their characteristics and potential effects on computer systems. It provides viewers with a thorough understanding of how different malware threats operate and offers insights into how to recognize and defend against them.
+

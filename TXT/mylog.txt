@@ -2,6 +2,17 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W02 200 L02 Attending OS Class
+ZCZC W02 150 L12 Week 2 Assignment
+ZCZC W02 120 L70 Doing LK Alin
+ZCZC W02 60 L09 Doing Popquizzes
+ZCZC W02 3 L44 Rerun myscript.sh 
+ZCZC W02 20 L41 Do My Log
+ZCZC W02 180 L07 Preparing for Alin Quiz
+ZCZC W02 20 L41 Updating my log
+ZCZC W02 60 L81 Listen to Music
+ZCZC W02 30 L01 Read Scele Forums
+
 ZCZC W01 20 L00 General, etc
 ZCZC W01 15 L01 Read Scele Forums
 ZCZC W01 30 L03 Git related

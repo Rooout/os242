@@ -12,6 +12,7 @@ ZCZC W02 180 L07 Preparing for Alin Quiz
 ZCZC W02 20 L41 Updating my log
 ZCZC W02 60 L81 Listen to Music
 ZCZC W02 30 L01 Read Scele Forums
+ZCZC W02 45 L05 Preparing for OS Quiz
 
 ZCZC W01 20 L00 General, etc
 ZCZC W01 15 L01 Read Scele Forums

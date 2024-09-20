@@ -2,6 +2,19 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W03 200 L02 Attending OS Class
+ZCZC W03 10 L03 Github and Git related
+ZCZC W03 180 L13 Doing Week 3 Assignment
+ZCZC W03 240 L06 Reading Book and Browsing
+ZCZC W03 60 L08 Debating with Friends about File System
+ZCZC W03 60 L70 Doing LK Alin
+ZCZC W03 60 L09 Doing Popquizzes
+ZCZC W03 35 L41 Updating my log
+ZCZC W03 120 L81 Listen to Music
+ZCZC W03 30 L01 Reading Scele Forums
+ZCZC W03 10 L25 Make Program with C Language for Pop Quiz
+ZCZC W03 45 L32 Watch Practical File System on Youtube
+
 ZCZC W02 200 L02 Attending OS Class
 ZCZC W02 150 L12 Week 2 Assignment
 ZCZC W02 120 L70 Doing LK Alin

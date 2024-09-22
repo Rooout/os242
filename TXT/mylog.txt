@@ -16,6 +16,7 @@ ZCZC W03 10 L25 Make Program with C Language for Pop Quiz
 ZCZC W03 45 L32 Watch Practical File System on Youtube
 ZCZC W03 45 L81 Listen to Music
 ZCZC W03 120 L80 Watch Youtube
+ZCZC W03 120 L70 Finishing my LK Alin
 
 ZCZC W02 200 L02 Attending OS Class
 ZCZC W02 150 L12 Week 2 Assignment

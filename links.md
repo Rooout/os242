@@ -91,5 +91,22 @@ permalink: LINKS/
 5. [libFUSE Doxygen Documentation](https://libfuse.github.io/doxygen/index.html)  
    -> This technical documentation covers the libFUSE library in detail. It includes API references, examples, and tutorials for developers looking to implement filesystems using the libFUSE library.
 
+<h2 style="color:#4CAF50">WEEK 04 🚩</h2>
+
+1. [The Linux Programming Interface](https://man7.org/tlpi/)
+   -> This website offers comprehensive resources on "The Linux Programming Interface" (TLPI) book by Michael Kerrisk, covering essential Linux system programming topics. It includes code examples, corrections, and additional material that expands on the book.
+
+2. [TLPI Lecture 1 - Introduction](https://youtu.be/n_ldm6wMnhM?si=BZjTvfmQc3tpdEVH)
+   -> This YouTube video introduces "The Linux Programming Interface" and explores fundamental concepts about system calls, processes, and files in the Linux operating system, providing a great starting point for Linux system programming.
+
+3. [TLPI Lecture 2 - File I/O and Filesystem](https://www.youtube.com/watch?v=Sj9t4IFg9qo)
+   -> This video lecture delves into file input/output (I/O) and the filesystem structure in Linux, highlighting important system calls like `read()`, `write()`, and file management essentials for developers working with low-level Linux programming.
+
+4. [TLPI Lecture 3 - Process Creation and Management](https://www.youtube.com/watch?v=0yIebMirlJc)
+   -> This session discusses process creation and management in Linux, including how `fork()` and `exec()` work in tandem for process control. It's a crucial aspect for understanding multitasking and resource management in Linux.
+
+5. [TLPI Lecture 4 - Signals](https://www.youtube.com/watch?v=bHeVE93lkzQ)
+   -> This video focuses on signals, one of the primary methods of interprocess communication (IPC) in Linux. It covers how processes send, receive, and handle signals, offering practical examples to enhance your understanding of signal management.
+
 
 REV: Fri 20 Sep 2024 09:01 PM

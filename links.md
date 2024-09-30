@@ -109,4 +109,4 @@ permalink: LINKS/
    -> This video focuses on signals, one of the primary methods of interprocess communication (IPC) in Linux. It covers how processes send, receive, and handle signals, offering practical examples to enhance your understanding of signal management.
 
 
-REV: Fri 20 Sep 2024 09:01 PM
+REV: Mon 30 Sep 2024 09:13 PM

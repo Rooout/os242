@@ -4,7 +4,7 @@
 
 ZCZC W05 200 L02 Attending OS Class
 ZCZC W05 15 L03 Github and Git related
-ZCZC W05 210 L15 Doing Week 3 Assignment
+ZCZC W05 210 L15 Doing Week 5 Assignment
 ZCZC W05 300 L06 Reading Book and Browsing
 ZCZC W05 60 L08 Chatting with Friends about Mechanism of Memory Addressing
 ZCZC W05 60 L70 Doing PBP
@@ -18,7 +18,7 @@ ZCZC W05 120 L70 Doing my PBP Group Task
 
 ZCZC W04 200 L02 Attending OS Class
 ZCZC W04 10 L03 Github and Git related
-ZCZC W04 180 L14 Doing Week 3 Assignment
+ZCZC W04 180 L14 Doing Week 4 Assignment
 ZCZC W04 270 L06 Reading Book and Browsing
 ZCZC W04 90 L08 Chatting with Friends about Linux Programming Interface
 ZCZC W04 45 L70 Doing PBP

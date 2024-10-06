@@ -108,5 +108,22 @@ permalink: LINKS/
 5. [TLPI Lecture 4 - Signals](https://www.youtube.com/watch?v=bHeVE93lkzQ)
    -> This video focuses on signals, one of the primary methods of interprocess communication (IPC) in Linux. It covers how processes send, receive, and handle signals, offering practical examples to enhance your understanding of signal management.
 
+<h2 style="color:#4CAF50">WEEK 05 🚩</h2>
 
-REV: Mon 30 Sep 2024 09:13 PM
+1. [Memory Lecture by Sir M. Anwar Ma'sum](https://youtu.be/uFj7mKNq1t0)
+   -> This video presents an in-depth lecture on memory management by Sir M. Anwar Ma'sum. It covers key topics about how memory works in operating systems, focusing on the distinction between logical and physical memory.
+
+2. [Physical Memory - PhoenixNAP](https://phoenixnap.com/glossary/physical-memory)
+   -> This article explains the concept of physical memory, detailing how the physical address space is utilized in computing and how memory is physically structured in hardware systems.
+
+3. [IBM Documentation on Logical Memory](https://www.ibm.com/docs/en/power8?topic=memory-logical)
+   -> IBM’s technical documentation provides a detailed explanation of logical memory, focusing on how logical addresses are translated into physical addresses within the system.
+
+4. [GeeksforGeeks: Logical and Physical Address](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)
+   -> This GeeksforGeeks article explains the differences between logical and physical addresses in an operating system. It covers how memory management works, including examples and practical applications.
+
+5. [Logical Address - Wikipedia](https://en.wikipedia.org/wiki/Logical_address)
+   -> The Wikipedia page gives an overview of logical addresses, discussing how they work in the context of memory management in computer systems, alongside physical memory.
+
+
+REV: Mon 6 Oct 2024 08:23 PM

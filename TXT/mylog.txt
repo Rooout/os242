@@ -2,6 +2,20 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W06 200 L02 Attending OS Class
+ZCZC W06 20 L03 Github and Git related
+ZCZC W06 180 L16 Doing Week 6 Assignment
+ZCZC W06 240 L06 Reading Book and Browsing
+ZCZC W06 45 L08 Chatting with Friends about Forking and Sharing Memory
+ZCZC W06 90 L70 Doing PBP
+ZCZC W06 120 L09 Doing Popquizzes
+ZCZC W06 20 L41 Updating my log
+ZCZC W06 210 L81 Listen to Music
+ZCZC W06 45 L01 Reading Scele Forums
+ZCZC W06 60 L81 Listen to Music
+ZCZC W06 180 L80 Watch Youtube
+ZCZC W06 240 L70 Doing my PBP Group Task
+
 ZCZC W05 200 L02 Attending OS Class
 ZCZC W05 15 L03 Github and Git related
 ZCZC W05 210 L15 Doing Week 5 Assignment

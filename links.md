@@ -125,5 +125,22 @@ permalink: LINKS/
 5. [Logical Address - Wikipedia](https://en.wikipedia.org/wiki/Logical_address)
    -> The Wikipedia page gives an overview of logical addresses, discussing how they work in the context of memory management in computer systems, alongside physical memory.
 
+<h2 style="color:#4CAF50">WEEK 06 🚩</h2>
 
-REV: Mon 6 Oct 2024 08:23 PM
+1. [Fork Memory Shared Between Processes - GeeksforGeeks](https://www.geeksforgeeks.org/fork-memory-shared-bw-processes-created-using/)
+   -> This article from GeeksforGeeks explains how memory is shared between processes created using `fork()`, with a focus on shared memory regions and mechanisms for inter-process communication.
+
+2. [Fork and Shared Memory - LinuxQuestions](https://www.linuxquestions.org/questions/programming-9/fork-and-shared-memory-4175535565/)
+   -> This discussion thread covers different aspects of memory sharing in processes created with `fork()` on Linux. It provides insights from multiple perspectives on managing memory sharing effectively.
+
+3. [Memory Usage of Process and Children - Unix Stack Exchange](https://unix.stackexchange.com/questions/687403/how-does-a-process-and-its-children-use-memory-in-case-of-mmap)
+   -> This Unix Stack Exchange discussion explains how a process and its child processes use memory, particularly in cases where memory mapping (`mmap`) is involved. It covers shared memory concepts in the context of `fork()` and `mmap`.
+
+4. [Practical mod_perl by Stas Bekman - O’Reilly](https://www.oreilly.com/library/view/practical-mod_perl/0596002270/ch10.html)
+   -> This section of "Practical mod_perl" by O'Reilly discusses process management and memory sharing techniques in the context of mod_perl, including process forking and how memory is allocated and shared between child processes.
+
+5. [Shared Memory Example - Michigan Technological University](https://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/shm/example-1.html)
+   -> This resource from Michigan Tech University provides a practical example of shared memory between processes, demonstrating how to use shared memory segments in process synchronization and communication.
+
+
+REV: Mon 29 Oct 2024 08:59 AM

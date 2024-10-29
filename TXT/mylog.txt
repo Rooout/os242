@@ -3,9 +3,9 @@
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
 ZCZC W06 200 L02 Attending OS Class
-ZCZC W06 20 L03 Github and Git related
+ZCZC W06 30 L03 Github and Git related
 ZCZC W06 180 L16 Doing Week 6 Assignment
-ZCZC W06 240 L06 Reading Book and Browsing
+ZCZC W06 270 L06 Reading Book and Browsing
 ZCZC W06 45 L08 Chatting with Friends about Forking and Sharing Memory
 ZCZC W06 90 L70 Doing PBP
 ZCZC W06 120 L09 Doing Popquizzes

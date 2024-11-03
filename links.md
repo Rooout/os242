@@ -142,5 +142,23 @@ permalink: LINKS/
 5. [Shared Memory Example - Michigan Technological University](https://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/shm/example-1.html)
    -> This resource from Michigan Tech University provides a practical example of shared memory between processes, demonstrating how to use shared memory segments in process synchronization and communication.
 
+<h2 style="color:#4CAF50">WEEK 07 🚩</h2>
 
-REV: Mon 29 Oct 2024 08:59 AM
+1. [Shared Memory - IBM Documentation](https://www.ibm.com/docs/en/informix-servers/12.10?topic=memory-shared)  
+   -> This IBM article provides an overview of shared memory, discussing how memory is allocated and managed for communication between processes.
+
+2. [What is Shared Memory in the OS - Tutorialspoint](https://www.tutorialspoint.com/what-is-shared-memory-in-the-os)  
+   -> Tutorialspoint explains the concept of shared memory within operating systems, covering how processes use shared memory segments for faster communication.
+
+3. [What is Shared Memory - GeeksforGeeks](https://www.geeksforgeeks.org/what-is-a-shared-memory/)  
+   -> This article from GeeksforGeeks introduces shared memory, discussing its purpose, advantages, and use in inter-process communication.
+
+4. [Shared Memory - Wikipedia](https://en.wikipedia.org/wiki/Shared_memory)  
+   -> The Wikipedia entry on shared memory covers the basics of shared memory in computing, including different implementations and usage across operating systems.
+
+5. [IPC Through Shared Memory - Javatpoint](https://www.javatpoint.com/ipc-through-shared-memory)  
+   -> This Javatpoint article details inter-process communication (IPC) through shared memory, explaining how processes communicate by sharing memory segments and the synchronization mechanisms involved.
+
+
+
+REV: Sun 3 Nov 2024 10:44 PM

@@ -159,6 +159,23 @@ permalink: LINKS/
 5. [IPC Through Shared Memory - Javatpoint](https://www.javatpoint.com/ipc-through-shared-memory)  
    -> This Javatpoint article details inter-process communication (IPC) through shared memory, explaining how processes communicate by sharing memory segments and the synchronization mechanisms involved.
 
+<h2 style="color:#4CAF50">WEEK 08 🚩</h2>
+
+1. [Linux From Scratch - Official Documentation](https://www.linuxfromscratch.org/)  
+   -> The official Linux From Scratch documentation provides a comprehensive guide on how to build your own custom Linux system from the ground up, covering every step in detail.
+
+2. [Linux From Scratch Overview - YouTube Video](https://youtu.be/oV541sgHKGo?si=rXR2ipQHQOHXJNXy)  
+   -> This YouTube video offers an overview of the Linux From Scratch project, discussing its purpose, benefits, and what you can expect to learn by building your own Linux OS.
+
+3. [Linux From Scratch Full Course Playlist - YouTube](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3)  
+   -> A complete playlist on YouTube covering the Linux From Scratch project in detail, ideal for those who prefer video tutorials for building a custom Linux OS.
+
+4. [Beyond Linux From Scratch (BLFS) Playlist - YouTube](https://www.youtube.com/playlist?list=PLyc5xVO2uDsCQChvKRDhF-cvsguDfd-y2)  
+   -> This YouTube playlist, "Beyond Linux From Scratch" (BLFS), explores advanced topics for enhancing and extending a custom-built Linux system, including additional software and configurations.
+
+5. [Linux From Scratch - Practical Guide Playlist - YouTube](https://www.youtube.com/playlist?list=PLyc5xVO2uDsB4gJ2dPySvs2eK_roFwKeb)  
+   -> A practical guide playlist on YouTube for Linux From Scratch, focusing on hands-on steps and troubleshooting tips for building and customizing your Linux OS.
 
 
-REV: Sun 3 Nov 2024 10:44 PM
+
+REV: Sat 9 Nov 2024 01:28 PM

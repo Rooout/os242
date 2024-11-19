@@ -176,6 +176,24 @@ permalink: LINKS/
 5. [Linux From Scratch - Practical Guide Playlist - YouTube](https://www.youtube.com/playlist?list=PLyc5xVO2uDsB4gJ2dPySvs2eK_roFwKeb)  
    -> A practical guide playlist on YouTube for Linux From Scratch, focusing on hands-on steps and troubleshooting tips for building and customizing your Linux OS.
 
+<h2 style="color:#4CAF50">WEEK 09 🚩</h2>
+
+1. <a href="https://www.amazon.com/Linux-Scratch/s?k=Linux+From+Scratch">Linux From Scratch - Amazon Books</a>  
+   -> Explore a range of books available on Amazon for Linux From Scratch, offering detailed guides and insights into building your custom Linux system.
+
+2. <a href="https://www.youtube.com/watch?v=oV541sgHKGo">Linux From Scratch Overview - YouTube Video</a>  
+   -> A concise YouTube video providing an overview of Linux From Scratch, discussing its key concepts, benefits, and steps to build your own Linux OS.
+
+3. <a href="https://www.youtube.com/watch?v=jJMfFdl1wUc">Linux From Scratch Tutorial - Part 1 - YouTube</a>  
+   -> Part 1 of a detailed Linux From Scratch tutorial series on YouTube, perfect for beginners looking for a step-by-step walkthrough to get started.
+
+4. <a href="https://www.youtube.com/watch?v=QlzoegSuIzg">Linux From Scratch: Installing the Base System - YouTube</a>  
+   -> A focused tutorial on installing the base system for Linux From Scratch, providing essential guidance for the core setup process.
+
+5. <a href="https://www.youtube.com/watch?v=RpaGnWR79uU">Linux From Scratch Explained - YouTube Video</a>  
+   -> This YouTube video breaks down the Linux From Scratch process, offering clear explanations and tips for successfully building a custom Linux system.
 
 
-REV: Sat 9 Nov 2024 01:28 PM
+
+
+REV: Sat 19 Nov 2024 09:15 PM
